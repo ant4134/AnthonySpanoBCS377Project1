@@ -22,8 +22,8 @@ PART 1: CONTENT
 --------------------------------------------------
 PART 2: DESIGN
 
-1. What overall style will best represent you (minimalist, creative, professional, etc.)? I believe I will use a professional style for this project. 
-2. What color scheme will you use and why? I will use a color scheme consisting of shades of blue, light green, and greys. I believe this color scheme fits my personality well, while being friendly to view and looks professional. 
+1. What overall style will best represent you (minimalist, creative, professional, etc.)? I will use a creative style for this project. I feel that a creative stlye fits my personality the best.
+2. What color scheme will you use and why? I will use a color scheme consisting of shades of blue, green, and greys. I believe this color scheme fits my personality well, while being friendly to view and looks professional. 
 3. What fonts will you use for headings and body text? I am going to use the Futura font, because I believe it is professional and fits my personality nicely. 
 4. How will your design reflect your personality or field? I want my design to be easy to navigate and simple, because as a person I am very friendly and easy to get along with. 
 5. What layout will your homepage follow? I want my homepage to display some basic information about me, while having navigation links to my more in depth pages. 
