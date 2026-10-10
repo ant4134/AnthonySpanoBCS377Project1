@@ -48,12 +48,7 @@ PART 3: INTERACTIVITY
 
 Links Used for Portfolio: 
 - https://www.w3schools.com/html/html5_semantic_elements.asp (Semantic HTML elements)
-- 
+- https://www.w3schools.com/bootstrap5/bootstrap_grid_basic.php (Bootstrap Guide)
 
 --------------------------------------------------
-
-Wireframe Design: 
-
---------------------------------------------------
-
 
