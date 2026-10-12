@@ -39,7 +39,7 @@ PART 2: DESIGN
 PART 3: INTERACTIVITY 
 
 1. What interactive elements will your site include (navigation menus, buttons, forms)? My portfolio website will definately have navigation menus and buttons, and potentialy other interactive elements like forms to contact me. 
-2. Will your site include a contact form? How will it work? Yes, I would like to add a contact form on my website. I plan on having the form to work similarly to an email.
+2. Will your site include a contact form? How will it work? Yes, I would like to add a contact form on my website. I plan on having the form to work similarly to writing a letter.
 3. What JavaScript features will you implement? TBD.
 4. How will users receive feedback from interactions? TBD. 
 5. How does interactivity improve the user experience? I believe interactivity improves the user experience by giving the website a better personality, whilst giving the user a chance to interact with me. 
@@ -49,6 +49,7 @@ PART 3: INTERACTIVITY
 Links Used for Portfolio: 
 - https://www.w3schools.com/html/html5_semantic_elements.asp (Semantic HTML elements)
 - https://www.w3schools.com/bootstrap5/bootstrap_grid_basic.php (Bootstrap Guide)
+- https://www.w3schools.com/bootstrap5/bootstrap_navbar.php (Navbar Guide) 
 
 --------------------------------------------------
 
