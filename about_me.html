@@ -37,14 +37,17 @@
 <main>
 <h1 class="text-center" style="color: rgb(1, 1, 95);"><b>About Me</b></h1>
 <!-- Div with d-flex, used as a flexbox to contain the content for About Me-->
-<div class="d-flex p-3 bg-primary text-white">
-        <!-- Adding an image of myself, using Bootstrap to make the image responsive. -->
-        <img class="img-fluid rounded" style="width: 400px;" src="images/me_2.png" alt="Picture of Me">
-    <!-- Adding a few buttons that link to my social medias, using Bootstrap to make the buttons responsive. -->
-        <a class="btn btn-primary" href= "mailto:ant4130499@gmail.com">Email</a>
-        <a class="btn btn-primary" href="https://www.linkedin.com/in/anthony-spano-200a41291">LinkedIn</a>
-        <a class="btn btn-primary" href="https://www.instagram.com/ant4134998/">Instagram</a>
+<div class="d-flex flex-column flex-md-row align-items-center p-3 bg-primary text-white gap-3"> 
+  <!-- Profile Image --> 
+  <img class="img-fluid rounded" style="max-width: 450px; width: 100%;" src="images/me_2.png" alt="Picture of Me"> 
+  
+  <!-- Social Media Buttons --> 
+  <div class="d-flex flex-wrap gap-2">
+    <a class="btn btn-outline-light" href="mailto:ant4130499@gmail.com">Email</a> 
+    <a class="btn btn-outline-light" href="https://www.linkedin.com/in/anthony-spano-200a41291" target="_blank" rel="noopener noreferrer">LinkedIn</a> 
+    <a class="btn btn-outline-light" href="https://www.instagram.com/ant4134998/" target="_blank" rel="noopener noreferrer">Instagram</a> 
   </div>
+</div>
 </div>
         <h2 style="color: rgb(1, 1, 95);">
             <b>
